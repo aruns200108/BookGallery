@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Mynerve&family=Russo+One&family=Tilt+Prism&display=swap');
+.col{
+    height: 380px;
+    width: 18%;
+    border: rgb(0, 0, 0) 5px solid;
+    float: left;
+    padding:8px;
+    border-radius:10px;
+}
+body{
+    background-color:rgb(20, 20, 20);
+    color: white;
+}
+img{
+    width: 45%;
+    height:125px;
+    border-radius: 8px;
+}
+h4{
+    margin-left: 118px;
+    margin-top: -115px;
+    font-size: small;
+    
+}
+h6{
+    font-size: x-small;
+    margin-left: 124px;
+    margin-top: 0px;
+    color: rgb(160, 157, 157);
+}
+p{
+    margin-top: 35px;
+}
+a{
+    margin-top: 25px;
+}
+.col-2 p{
+    margin-top: 56px;
+
+}
+
+.col-3 p{
+    margin-top:60px;
+}
+
+.col-4 p{
+    margin-top:63px;
+}
+
+.col-5 p{
+    margin-top:63px;
+}
+#fontst{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    text-decoration:underline whitesmoke;
+    color: rgb(255, 255, 255);
+}
